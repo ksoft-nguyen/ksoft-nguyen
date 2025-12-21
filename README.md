@@ -12,6 +12,9 @@ I am looking to join a team building **large-scale systems**, where I can contri
 
 My daily drivers for building feature-rich applications:
 
+### **Programming Languages**
+* **Javascript, Typescript, PHP, Dart, Python**
+
 ### **Backend Development**
 * **Frameworks:** NestJS (Node.js), Laravel (PHP).
 * **Database:** MySQL, PostgreSQL.
