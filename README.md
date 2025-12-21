@@ -40,7 +40,7 @@ I use these tools to build scalable, highly available backends:
 I am comfortable working directly with the OS to manage deployments:
 * **OS:** Ubuntu Linux (Command Line proficiency).
 * **Web Servers:** Nginx, Apache.
-* **Deliveries: CI/CD deployment, versioning releases.
+* **Deliveries**: CI/CD deployment, versioning releases.
 
 ---
 
