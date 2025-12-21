@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nguyen Trung Kien 👋
 
 ### 🚀 Software Engineer | Fullstack Developer | Aspiring Cloud Architect
 
