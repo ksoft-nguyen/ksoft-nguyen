@@ -24,7 +24,7 @@ My daily drivers for building feature-rich applications:
 
 ---
 
-## 🚀 The "Plus" Factor: Infrastructure & Deployment
+## 🚀 Infrastructure & Deployment
 
 Beyond writing code, I have hands-on experience deploying applications in both **On-Premise** and **Cloud** environments. I view this as a crucial skillset for modern engineering—understanding not just *how to code it*, but *where it lives*.
 
