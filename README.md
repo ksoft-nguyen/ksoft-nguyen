@@ -34,12 +34,13 @@ I use these tools to build scalable, highly available backends:
 * **Integration:** SQS, SNS (Event-driven patterns).
 * **Security & Networking:** AWS IAM, Cognito, Route53, CloudFront.
 * **Infrastructure:** AWS CloudFormation, CloudWatch, S3.
+* **Architecture:** Experience with Microservices Architecture and CI/CD deployment.
 
 ### **🖥️ On-Premise & Linux Ops**
 I am comfortable working directly with the OS to manage deployments:
 * **OS:** Ubuntu Linux (Command Line proficiency).
 * **Web Servers:** Nginx, Apache.
-* **Architecture:** Experience with Microservices Architecture and manual deployment strategies.
+* **Deliveries: CI/CD deployment, versioning releases.
 
 ---
 
