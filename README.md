@@ -8,13 +8,13 @@ I am looking to join a team building **large-scale systems**, where I can contri
 
 ---
 
-## 🛠 Core Tech Stack
+## 🛠 Tech Stack
 
 My daily drivers for building feature-rich applications:
 
 ### **Backend Development**
 * **Frameworks:** NestJS (Node.js), Laravel (PHP).
-* **Database:** MySQL, Relational Data Modeling.
+* **Database:** MySQL, PostgreSQL.
 * **API Design:** RESTful APIs, Microservices communication.
 
 ### **Frontend Development**
