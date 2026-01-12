@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Trung Kien 👋
+# Hi there, I'm Nguyen Trung Kien or you can call me Kenny 👋
 
 ### 👨‍💻 Software Engineer | Full Stack Developer | DevOps Engineer
 
