@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | Full Stack Developer | DevOps Engineer
 
-I am a mid-level Software Engineer with a passion for building robust applications and solving complex, real-world problems. My primary focus is on writing clean, maintainable code, but I differentiate myself by deeply understanding **how applications are deployed and scaled**.
+I am a Senior Software Engineer with a passion for building robust applications and solving complex, real-world problems. My primary focus is on writing clean, maintainable code, but I differentiate myself by deeply understanding **how applications are deployed and scaled**.
 
 I am looking to join a team building **large-scale systems**, where I can contribute my development skills while further mastering cloud architecture and system scalability.
 
